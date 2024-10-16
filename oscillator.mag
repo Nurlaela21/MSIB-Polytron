@@ -1,0 +1,11 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1729044742
+<< checkpaint >>
+rect -1260 -1260 2053 3566
+use ringosc2  x1
+timestamp 1729044742
+transform 1 0 53 0 1 2106
+box -53 -2106 740 200
+<< end >>
